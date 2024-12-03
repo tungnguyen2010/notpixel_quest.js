@@ -1,3 +1,3 @@
 [
-    ["secretWord", {"secret_word": "happy halloween"}]
+    ["secretWord", {"secret_word": "telegram"}]
 ]
